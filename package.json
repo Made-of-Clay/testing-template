@@ -1,0 +1,25 @@
+{
+  "name": "testing-template",
+  "version": "1.0.0",
+  "description": "This repo is meant to be a starting point for front-end tests using the Mocha &amp; Chai testing libs. It does not contain all test items (just the essentials).",
+  "main": "my-script.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1",
+    "sinon": "^4.1.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Made-of-Clay/testing-template.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Made-of-Clay/testing-template/issues"
+  },
+  "homepage": "https://github.com/Made-of-Clay/testing-template#readme"
+}
